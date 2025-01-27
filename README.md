@@ -51,8 +51,63 @@ Open your web browser and navigate to `http://localhost:8080`.
 ![Example Image](screenshots/7.png) <br>
 ![Example Image](screenshots/8.png) <br>
 
-## Contributions
-Contributions are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or create a pull request.
+# ![Language](https://img.shields.io/badge/language-Java-blue.svg) ![Technologies](https://img.shields.io/badge/technologies-Spring_Boot-green.svg) ![Technologies](https://img.shields.io/badge/technologies-Spring_MVC-green.svg) ![Technologies](https://img.shields.io/badge/technologies-Spring_Security-green.svg) ![Technologies](https://img.shields.io/badge/technologies-Spring_Data_JPA-green.svg) ![Technologies](https://img.shields.io/badge/technologies-Thymeleaf_%26_Bootstrap-purple.svg)
+
+# Expenses Tracker WebApp
+
+## Getting Started with Docker Compose
+
+### Prerequisites
+- **Docker** and **Docker Compose** installed on your system.
+
+### Steps
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/expenses-tracker.git
+   cd expenses-tracker
+   ```
+
+2. **Configure the Environment**
+   - Update the `application.properties` or `.env` file with your database credentials if required.
+
+3. **Start the Application**
+   - Use Docker Compose to build and start the containers:
+     ```bash
+     docker compose up --build
+     ```
+
+4. **Access the Application**
+   - Open your web browser and navigate to:
+     ```
+     http://localhost:8080
+     ```
+
+---
+## Contribution Guidelines
+Contributions are welcome! To contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes and push them to your fork:
+   ```bash
+   git push origin feature-name
+   ```
+4. Submit a pull request with a detailed explanation of your changes.
+
+---
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## Contact
+For any questions or suggestions, feel free to reach out:
+- **GitHub:** [M-Tayyab06](https://github.com/M-Tayyab06)
+
+
+Happy coding! 🚀
+
+
