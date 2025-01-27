@@ -53,8 +53,6 @@ Open your web browser and navigate to `http://localhost:8080`.
 
 # ![Language](https://img.shields.io/badge/language-Java-blue.svg) ![Technologies](https://img.shields.io/badge/technologies-Spring_Boot-green.svg) ![Technologies](https://img.shields.io/badge/technologies-Spring_MVC-green.svg) ![Technologies](https://img.shields.io/badge/technologies-Spring_Security-green.svg) ![Technologies](https://img.shields.io/badge/technologies-Spring_Data_JPA-green.svg) ![Technologies](https://img.shields.io/badge/technologies-Thymeleaf_%26_Bootstrap-purple.svg)
 
-# Expenses Tracker WebApp
-
 ## Getting Started with Docker Compose
 
 ### Prerequisites
