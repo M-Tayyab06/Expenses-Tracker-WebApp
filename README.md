@@ -51,8 +51,6 @@ Open your web browser and navigate to `http://localhost:8080`.
 ![Example Image](screenshots/7.png) <br>
 ![Example Image](screenshots/8.png) <br>
 
-# ![Language](https://img.shields.io/badge/language-Java-blue.svg) ![Technologies](https://img.shields.io/badge/technologies-Spring_Boot-green.svg) ![Technologies](https://img.shields.io/badge/technologies-Spring_MVC-green.svg) ![Technologies](https://img.shields.io/badge/technologies-Spring_Security-green.svg) ![Technologies](https://img.shields.io/badge/technologies-Spring_Data_JPA-green.svg) ![Technologies](https://img.shields.io/badge/technologies-Thymeleaf_%26_Bootstrap-purple.svg)
-
 ## Getting Started with Docker Compose
 
 ### Prerequisites
